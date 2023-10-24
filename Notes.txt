@@ -1,0 +1,7 @@
+git status = Checking the status that file/folder is git repositories or not
+git diff = Compare staging area and working directory
+git diff --staged = Compare previous commit and staging area
+git add --a or git add . = Adding all files to staging area
+git commit -m "Comment to be added" = For Commiting the changes
+touch file_name = To generate a new file with file_name
+touch .gitignore = To generate ignore file
